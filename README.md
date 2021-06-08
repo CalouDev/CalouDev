@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my GitHub profil
 
 <!--
 **CalouDev/CalouDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-----
+## --------=====[ You can find me on ]=====--------
+| **Codewars** | **Discord** | <br>
+&nbsp;<a href="https://www.codewars.com/users/CalouDev"><img src="https://www.codewars.com/assets/logos/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg" width=8.2%></a>
+<img src="https://discord.c99.nl/widget/theme-2/748484852570914817.png">
