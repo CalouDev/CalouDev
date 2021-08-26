@@ -11,7 +11,7 @@
 </p>
 
 ## --------=====[ You can find me on ]=====--------
-### CODEWARS <br><br> &nbsp;<a href="https://www.codewars.com/users/CalouDev"><img src="https://www.codewars.com/assets/logos/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg" width=8.2%></a><br>
+### CODEWARS <br><br> &nbsp;<a href="https://www.codewars.com/users/CalouDev"><img src="https://www.codewars.com/users/CalouDev/badges/large" width=8.2%></a><br>
 ### DISCORD
 <img src="https://discord.c99.nl/widget/theme-2/748484852570914817.png">
 </p>
