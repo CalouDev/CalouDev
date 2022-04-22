@@ -1,6 +1,6 @@
 # 😀 Welcome to my GitHub profil
 👋 Hi, I'm CalouDev, and I love programming\
-🎓 I'm a student in French\
+🎓 I'm a French student\
 ✍️ I like to learn things in the computer field\
 🌠 This GitHub allows you to show some of my projects and part of my journey
 -----
