@@ -10,7 +10,7 @@
 </p>
 
 ## [ WEB PROJECTS YOU CAN EASILY GO ON ]
-- <a href="https://caloudev.github.io/Will-it-ever-touch-the-corner/" target="_blank" rel="noopener">Will it ever touch the corner ?</a>
+- <a href="https://caloudev.github.io/Will-it-ever-touch-the-corner/">Will it ever touch the corner ?</a>
 
 ## [ FIND ME ON ]
 <a href="https://www.codewars.com/users/CalouDev"><img src="https://www.codewars.com/users/CalouDev/badges/large" alt="codewars" /></a><br>
